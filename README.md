@@ -2,6 +2,7 @@
 # Rapport
 
 **Skriv din rapport här!**
+Jag ändrade primarycolor och de andra två färgerna till en mer rosa-lila nyans. Istället
 
 _Du kan ta bort all text som finns sedan tidigare_.
 

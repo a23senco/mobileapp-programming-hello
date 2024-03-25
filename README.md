@@ -2,7 +2,8 @@
 # Rapport
 
 **Skriv din rapport här!**
-Jag ändrade primarycolor och de andra två färgerna till en mer rosa-lila nyans. Istället
+Jag ändrade primarycolor och de andra två färgerna till en mer rosa-lila nyans. 
+Istället för "Hello World!" så la jag flygbiljetter t.ex en app för att köpa flygbiljetter.
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
